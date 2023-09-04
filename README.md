@@ -4,7 +4,8 @@
 ## Description
 103,282-Images Driver Behavior Annotation Data. The data includes multiple ages, multiple time periods and behaviors (Dangerous behaviors, Fatigue behaviors, Visual movement behaviors). In terms of annotation, 72 facial landmarks (including pupils), face attributes, gesture bounding boxes, seatbelt bounding boxes, pupil landmarks and behavior categories were annotated in the data. This data can be used for tasks such as driver behavior analysis.
 
-For more details, please refer to the link: https://bit.ly/3UEYq75
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1033?source=Github
+
 
 ## Data size
 103,282 images
